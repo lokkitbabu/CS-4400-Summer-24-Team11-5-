@@ -1,0 +1,28 @@
+cruiselineID,name,max capacity,speed,locationID,ship_type,uses_paddles,lifeboats
+Royal Caribbean,Symphony of the Seas,6680,22,ship_1,ocean_liner,,20
+Carnival,Carnival Vista,3934,23,ship_23,ocean_liner,,20
+Norwegian,Norwegian Bliss,4004,22.5,ship_24,ocean_liner,,15
+MSC,Meraviglia,4488,22.7,ship_22,ocean_liner,,20
+Princess,Crown Princess,3080,23,ship_5,ocean_liner,,20
+Celebrity,Celebrity Edge,2908,22,ship_6,ocean_liner,,20
+Disney,Disney Dream,4000,23.5,ship_7,ocean_liner,,20
+Holland America,MS Nieuw Statendam,2666,23,ship_8,ocean_liner,,30
+Costa,Costa Smeralda,6554,23,,,,
+P&O Cruises,Iona,5200,22.6,,ocean_liner,,20
+AIDA,AIDAnova,6600,21.5,,ocean_liner,,35
+Viking Ocean,Viking Orion,930,20,,ocean_liner,,20
+Silversea,Silver Muse,596,19.8,ship_13,ocean_liner,,30
+Regent,Seven Seas Explorer,750,19.5,,ocean_liner,,20
+Oceania,Marina,1250,20,,ocean_liner,,25
+Seabourn,Seabourn Ovation,604,19,,ocean_liner,,20
+Cunard,Queen Mary 2,2691,30,,ocean_liner,,40
+Azamara,Azamara Quest,686,18.5,ship_18,river,TRUE,
+Royal Caribbean,Oasis of the Seas,1325,18,ship_25,ocean_liner,,30
+Windstar,Wind Surf,342,15,ship_20,river,FALSE,
+Hurtigruten,MS Roald Amundsen,530,15.5,ship_21,river,TRUE,
+Paul Gauguin Cruises,Paul Gauguin,332,18,,,,
+Celestyal Cruises,Celestyal Crystal,1200,18.5,,river,FALSE,
+Saga Cruises,Spirit of Discovery,999,21,,ocean_liner,,2
+Ponant,Le Lyrial,264,16,ship_26,river,TRUE,
+Star Clippers,Royal Clipper,227,17,,river,TRUE,
+Marella Cruises,Marella Explorer,1924,21.5,,ocean_liner,,2

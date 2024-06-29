@@ -1,0 +1,24 @@
+portID,port_name,city,state,country_code,locationID
+MIA,Port of Miami,Miami,Florida,USA,port_1
+EGS,Port Everglades,Fort Lauderdale,Florida,USA,port_2
+CZL,Port of Cozumel,Cozumel,Quintana Roo,MEX,port_3
+CNL,Port Canaveral,Cape Canaveral,Florida,USA,port_4
+NSU,Port of Nassau,Nassau,New Providence,BHS,NULL
+BCA,Port of Barcelona,Barcelona,Catalonia,ESP,port_6
+CVA,Port of Civitavecchia,Civitavecchia,Lazio,ITA,port_7
+VEN,Port of Venice,Venice,Veneto,ITA,port_14
+SHA,Port of Southampton,Southampton,NULL,GBR,NULL
+GVN,Port of Galveston,Galveston,Texas,USA,port_10
+SEA,Port of Seattle,Seattle,Washington,USA,port_11
+SJN,Port of San Juan,San Juan,Puerto Rico,USA,port_12
+NOS,Port of New Orleans,New Orleans,Louisiana,USA,port_13
+SYD,Port of Sydney,Sydney,New South Wales,AUS,NULL
+TMP,Port of Tampa Bay,Tampa Bay,Florida,USA,port_15
+VAN,Port of Vancouver,Vancouver,British Columbia,CAN,port_16
+MAR,Port of Marseille,Marseille,Provence-Alpes-Côte d'Azur,FRA,port_17
+COP,Port of Copenhagen,Copenhagen,Hovedstaden,DEN,port_18
+BRI,Port of Bridgetown,Bridgetown,Saint Michael,BRB,NULL
+PIR,Port of Piraeus,Piraeus,Attica,GRC,port_20
+STS,Port of St. Thomas,Charlotte Amalie,St. Thomas,USVI,port_21
+STM,Port of Stockholm,Stockholm,Stockholm County,SWE,port_22
+LAS,Port of Los Angeles,Los Angeles,California,USA,port_23

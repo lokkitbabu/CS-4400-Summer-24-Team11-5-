@@ -1,0 +1,46 @@
+personID,first_name,last_name,locationIDs,taxID,experience,sailing_cruiseline,sailing_tail,license_types,miles,funds,associated_cruise
+p1,Jeanne,Nelson,ship_1,330-12-6907,31,Royal Caribbean,Symphony of the Seas,ocean_liner,NULL,NULL,rc_10
+p10,Lawrence,Morgan,ship_24,769-60-1266,15,Norwegian,Norwegian Bliss,ocean_liner,NULL,NULL,nw_20
+p11,Sandra,Cruz,,369-22-9505,22,Ponant,Le Lyrial,"ocean_liner, river",NULL,NULL,pn_16
+p12,Dan,Ball,,680-92-5329,24,NULL,NULL,river,NULL,NULL,
+p13,Bryant,Figueroa,ship_26,513-40-4168,24,Ponant,Le Lyrial,river,NULL,NULL,pn_16
+p14,Dana,Perry,ship_26,454-71-7847,13,Ponant,Le Lyrial,"ocean_liner, river",NULL,NULL,pn_16
+p15,Matt,Hunt,,153-47-8101,30,NULL,NULL,"ocean_liner, river",NULL,NULL,
+p16,Edna,Brown,"ship_25, port_14",598-47-5172,28,Royal Caribbean,Oasis of the Seas,ocean_liner,NULL,NULL,rc_51
+p17,Ruby,Burgess,"ship_25, port_14",865-71-6800,36,Royal Caribbean,Oasis of the Seas,"ocean_liner, river",NULL,NULL,rc_51
+p18,Esther,Pittman,"ship_25, port_14",250-86-2784,23,Royal Caribbean,Oasis of the Seas,ocean_liner,NULL,NULL,rc_51
+p19,Doug,Fowler,,386-39-7881,2,NULL,NULL,ocean_liner,NULL,NULL,
+p2,Roxanne,Byrd,ship_1,842-88-1257,9,Royal Caribbean,Symphony of the Seas,"ocean_liner, river",NULL,NULL,rc_10
+p20,Thomas,Olson,,522-44-3098,28,NULL,NULL,ocean_liner,NULL,NULL,
+p21,Mona,Harrison,ship_24,NULL,NULL,Norwegian,Norwegian Bliss,NULL,771,700,nw_20
+p22,Arlene,Massey,,NULL,NULL,NULL,NULL,NULL,374,200,
+p23,Judith,Patrick,ship_1,NULL,NULL,Royal Caribbean,Symphony of the Seas,NULL,414,400,rc_10
+p24,Reginald,Rhodes,,NULL,NULL,NULL,NULL,NULL,292,500,
+p25,Vincent,Garcia,ship_1,NULL,NULL,Royal Caribbean,Symphony of the Seas,NULL,390,300,rc_10
+p26,Cheryl,Moore,,NULL,NULL,NULL,NULL,NULL,302,600,
+p27,Michael,Rivera,,NULL,NULL,NULL,NULL,NULL,470,400,
+p28,Luther,Matthews,,NULL,NULL,NULL,NULL,NULL,208,400,
+p29,Moses,Parks,,NULL,NULL,NULL,NULL,NULL,292,700,
+p3,Tanya,Nguyen,ship_23,750-24-7616,11,Carnival,Carnival Vista,ocean_liner,NULL,NULL,cn_38
+p30,Ora,Steele,,NULL,NULL,NULL,NULL,NULL,686,500,
+p31,Antonio,Flores,,NULL,NULL,NULL,NULL,NULL,547,400,
+p32,Glenn,Ross,,NULL,NULL,NULL,NULL,NULL,257,500,
+p33,Irma,Thomas,,NULL,NULL,NULL,NULL,NULL,564,600,
+p34,Ann,Maldonado,,NULL,NULL,NULL,NULL,NULL,211,200,
+p35,Jeffrey,Cruz,,NULL,NULL,NULL,NULL,NULL,233,500,
+p36,Sonya,Price,,NULL,NULL,NULL,NULL,NULL,293,400,
+p37,Tracy,Hale,ship_26,NULL,NULL,Ponant,Le Lyrial,NULL,552,700,pn_16
+p38,Albert,Simmons,ship_26,NULL,NULL,Ponant,Le Lyrial,NULL,812,700,pn_16
+p39,Karen,Terry,,NULL,NULL,NULL,NULL,NULL,541,400,
+p4,Kendra,Jacobs,ship_23,776-21-8098,24,Carnival,Carnival Vista,"ocean_liner, river",NULL,NULL,cn_38
+p40,Glen,Kelley,,NULL,NULL,NULL,NULL,NULL,441,700,
+p41,Brooke,Little,,NULL,NULL,NULL,NULL,NULL,875,300,
+p42,Daryl,Nguyen,,NULL,NULL,NULL,NULL,NULL,691,500,
+p43,Judy,Willis,,NULL,NULL,NULL,NULL,NULL,572,300,
+p44,Marco,Klein,,NULL,NULL,NULL,NULL,NULL,572,500,
+p45,Angelica,Hampton,,NULL,NULL,NULL,NULL,NULL,663,500,
+p5,Jeff,Burton,"ship_7, port_1",933-93-2165,27,Disney,Disney Dream,ocean_liner,NULL,NULL,dy_61
+p6,Randal,Parks,"ship_7, port_1",707-84-4555,38,Disney,Disney Dream,"ocean_liner, river",NULL,NULL,dy_61
+p7,Sonya,Owens,ship_24,450-25-5617,13,Norwegian,Norwegian Bliss,ocean_liner,NULL,NULL,nw_20
+p8,Bennie,Palmer,,701-38-2179,12,NULL,NULL,river,NULL,NULL,
+p9,Marlene,Warner,ship_24,936-44-6941,13,Norwegian,Norwegian Bliss,"ocean_liner, river",NULL,NULL,nw_20

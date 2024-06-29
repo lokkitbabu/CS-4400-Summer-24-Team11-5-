@@ -1,0 +1,7 @@
+routeID,legs
+americas_one,"leg_2:MIA-->NSU:190mi, leg_1:NSU-->SJN:792mi"
+americas_three,"leg_31:LAS-->SEA:1139mi, leg_14:SEA-->VAN:126mi"
+americas_two,leg_4:MIA-->EGS:29mi
+big_mediterranean_loop,"leg_47:BCA-->MAR:185mi, leg_15:MAR-->CVA:312mi, leg_27:CVA-->VEN:941mi, leg_33:VEN-->PIR:855mi"
+euro_north,"leg_64:STM-->COP:427mi, leg_78:COP-->SHA:803mi"
+euro_south,"leg_47:BCA-->MAR:185mi, leg_15:MAR-->CVA:312mi"

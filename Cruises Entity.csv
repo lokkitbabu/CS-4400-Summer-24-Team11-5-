@@ -1,0 +1,7 @@
+cruiseID,routeID,support_cruiseline,support_name,progress,ship_status,next_time,cost
+rc_10,americas_one,Royal Caribbean,Symphony of the Seas,1,sailing,8:00:00,200
+cn_38,americas_three,Carnival,Carnival Vista,2,sailing,14:30:00,200
+dy_61,americas_two,Disney,Disney Dream,0,docked,9:30:00,200
+nw_20,euro_north,Norwegian,Norwegian Bliss,2,sailing,11:00:00,300
+pn_16,euro_south,Ponant,Le Lyrial,1,sailing,14:00:00,400
+rc_51,big_mediterranean_loop,Royal Caribbean,Oasis of the Seas,3,docked,11:30:00,100
